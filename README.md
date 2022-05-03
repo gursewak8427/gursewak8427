@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gursewak8427
-- 👀 I’m interested in Computer
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on make digital to World
 - 📫 Contact me : 9779390415
 
 <!---
